@@ -22,6 +22,7 @@ class ExampleTest extends TestCase
             'name' ,
             'role',
             'create_at',
+            'update_at',
         ]);
     }
 }
